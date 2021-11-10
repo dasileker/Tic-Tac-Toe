@@ -58,6 +58,12 @@ the following example game is won by the first player, X:
 - The player who filled first the consecutive row, column or diagonal will be a winner.
 - If all the positions are filled equally, the game will be declared a draw.
 - To cancel the game in the middle of it, hit CTRL + C on the keyboard. 
+
+
+
+## Feature Upcoming changes
+
+- Switching the Game to Rails and Add logic for online multiplayer with redis.
   
 ## Authors:
 👤 Amine
